@@ -1,0 +1,12 @@
+.postBody{
+
+    padding: 1rem;
+}
+.postBody p, .postBody ul {
+    margin-bottom: 1rem;
+}
+
+.postBody ul{
+    list-style: disc;
+    margin-left: 2rem;
+}
